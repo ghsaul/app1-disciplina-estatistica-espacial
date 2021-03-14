@@ -1,0 +1,13 @@
+name: app1_disciplina_estatistica_espacial
+title: app1_disciplina_estatistica_espacial
+username:
+account: gabrielholmer
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3786302
+bundleId: 4341059
+url: https://gabrielholmer.shinyapps.io/app1_disciplina_estatistica_espacial/
+when: 1615684983.7526
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: lista2_gabriel_holmer.Rmd
